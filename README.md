@@ -3,6 +3,7 @@
 -backend setting rule
 
 1.mysql 워크벤치 세팅
+
 -설치 후 실행
 https://reference-m1.tistory.com/268 (참고)
 
@@ -17,6 +18,7 @@ password : altkzk2gh!
 
 
 2.백엔드 서버 실행
+
 -sts 설치 후 실행
 https://justdo-heal.tistory.com/17 (참고)
 
