@@ -2,7 +2,7 @@
 
 -backend setting rule
 
-1.mysql 워크벤치 세팅
+1.mysql 워크벤치 세팅 (db)
 
 -설치 후 실행:
 https://reference-m1.tistory.com/268 (참고)
