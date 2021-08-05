@@ -30,4 +30,6 @@ Package Explorer > 우클릭 > Git/Existing Gradle Project로 소스 디렉토�
 import한 프로젝트 우클릭 > Run As > Spring Boot App
 
 3.백엔드 VSCODE에서 실행
-https://gethlemn.tistory.com/28
+https://gethlemn.tistory.com/28(참고)
+백엔드 스프링 디렉토리 아래로 이동
+.\mvnw spring-boot:run (스프링 서버 run)
