@@ -33,3 +33,9 @@ import한 프로젝트 우클릭 > Run As > Spring Boot App
 https://gethlemn.tistory.com/28(참고)
 백엔드 스프링 디렉토리 아래로 이동
 .\mvnw spring-boot:run (스프링 서버 run)
+
+gradle 환경 실행
+https://youngwonhan-family.tistory.com/70(참고
+gradle  tasks 확장 설치
+.\gradlew.bat
+.\gradlew bootRun  or (gradlew build)
