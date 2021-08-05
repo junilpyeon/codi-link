@@ -17,7 +17,7 @@ password : altkzk2gh!
 /src/main/resources/create_table.txt 참고하여 생성
 
 
-2.백엔드 서버 실행
+2.백엔드 서버 실행 (STS 설치가 어려울 경우 3.VSCODE 실행 참조)
 
 -sts 설치 후 실행:
 https://justdo-heal.tistory.com/17 (참고)
@@ -28,3 +28,6 @@ Package Explorer > 우클릭 > Git/Existing Gradle Project로 소스 디렉토�
 
 -server run:
 import한 프로젝트 우클릭 > Run As > Spring Boot App
+
+3.백엔드 VSCODE에서 실행
+https://gethlemn.tistory.com/28
