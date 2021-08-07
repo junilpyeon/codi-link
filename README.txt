@@ -39,3 +39,6 @@ https://youngwonhan-family.tistory.com/70(참고
 gradle  tasks 확장 설치
 .\gradlew.bat
 .\gradlew bootRun  or (gradlew build)
+
+4.swagger rest api 규격 사용
+http://localhost:8080/swagger-ui.html#/
