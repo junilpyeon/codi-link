@@ -1,6 +1,13 @@
-# codi-link
+# source description
+구매자, 코디네이터, 관리자로 가입
+코디네이터는 패션 코디를 등록
+구매자는 좋아요, 구독, 알람설정, 코디상품 구매
+카카오톡, 구글, 일반회원가입 지원
 
--backend setting rule
+# source stack
+spring boot(gradle), mysql, jpa
+
+# source setting rule
 
 1.mysql 워크벤치 세팅 (db)
 
